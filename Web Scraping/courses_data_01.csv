@@ -1,0 +1,108 @@
+Course Name,Instructor,Link
+Intro to Python for Data Science,Filip Schouwenaars,https://www.datacamp.com/courses/intro-to-python-for-data-science
+Introduction to R,Jonathan Cornelissen,https://www.datacamp.com/courses/free-introduction-to-r
+Intermediate Python for Data Science,Filip Schouwenaars,https://www.datacamp.com/courses/intermediate-python-for-data-science
+Intermediate R,Filip Schouwenaars,https://www.datacamp.com/courses/intermediate-r
+Intro to SQL for Data Science,Nick Carchedi,https://www.datacamp.com/courses/intro-to-sql-for-data-science
+Python Data Science Toolbox (Part 1),Hugo Bowne-Anderson,https://www.datacamp.com/courses/python-data-science-toolbox-part-1
+Introduction to Git for Data Science,Greg Wilson,https://www.datacamp.com/courses/introduction-to-git-for-data-science
+Supervised Learning with scikit-learn,Andreas Müller,https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
+Importing Data in Python (Part 1),Hugo Bowne-Anderson,https://www.datacamp.com/courses/importing-data-in-python-part-1
+pandas Foundations,Dhavide Aruliah,https://www.datacamp.com/courses/pandas-foundations
+Python Data Science Toolbox (Part 2),Hugo Bowne-Anderson,https://www.datacamp.com/courses/python-data-science-toolbox-part-2
+Data Visualization with ggplot2 (Part 1),Rick Scavetta,https://www.datacamp.com/courses/data-visualization-with-ggplot2-1
+Deep Learning in Python,Dan Becker,https://www.datacamp.com/courses/deep-learning-in-python
+Importing Data in R (Part 1),Filip Schouwenaars,https://www.datacamp.com/courses/importing-data-in-r-part-1
+Cleaning Data in Python,Daniel Chen,https://www.datacamp.com/courses/cleaning-data-in-python
+Intermediate R - Practice,Filip Schouwenaars,https://www.datacamp.com/courses/intermediate-r-practice
+Importing Data in Python (Part 2),Hugo Bowne-Anderson,https://www.datacamp.com/courses/importing-data-in-python-part-2
+Cleaning Data in R,Nick Carchedi,https://www.datacamp.com/courses/cleaning-data-in-r
+Data Manipulation in R with dplyr,Garrett Grolemund,https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial
+Joining Data in PostgreSQL,Chester Ismay,https://www.datacamp.com/courses/joining-data-in-postgresql
+Introduction to Data,Mine Cetinkaya-Rundel,https://www.datacamp.com/courses/introduction-to-data
+Introduction to the Tidyverse,David Robinson,https://www.datacamp.com/courses/introduction-to-the-tidyverse
+Manipulating DataFrames with pandas,Dhavide Aruliah,https://www.datacamp.com/courses/manipulating-dataframes-with-pandas
+Statistical Thinking in Python (Part 1),Justin Bois,https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
+Introduction to Databases in Python,Jason Myers,https://www.datacamp.com/courses/introduction-to-relational-databases-in-python
+Importing Data in R (Part 2),Filip Schouwenaars,https://www.datacamp.com/courses/importing-data-in-r-part-2
+Scalable Data Processing in R,Michael Kane,https://www.datacamp.com/courses/scalable-data-processing-in-r
+Writing Functions in R,Hadley Wickham,https://www.datacamp.com/courses/writing-functions-in-r
+Reporting with R Markdown,Garrett Grolemund,https://www.datacamp.com/courses/reporting-with-r-markdown
+Introduction to Data Visualization with Python,Dhavide Aruliah,https://www.datacamp.com/courses/introduction-to-data-visualization-with-python
+Supervised Learning in R: Classification,Brett Lantz,https://www.datacamp.com/courses/supervised-learning-in-r-classification
+Introduction to R for Finance,Lore Dirick,https://www.datacamp.com/courses/introduction-to-r-for-finance
+Correlation and Regression,Ben Baumer,https://www.datacamp.com/courses/correlation-and-regression
+Data Visualization in R,Ronald Pearson,https://www.datacamp.com/courses/data-visualization-in-r
+Importing & Cleaning Data in R: Case Studies,Nick Carchedi,https://www.datacamp.com/courses/importing-cleaning-data-in-r-case-studies
+Machine Learning Toolbox,Zachary Deane-Mayer,https://www.datacamp.com/courses/machine-learning-toolbox
+Merging DataFrames with pandas,Dhavide Aruliah,https://www.datacamp.com/courses/merging-dataframes-with-pandas
+Introduction to Shell for Data Science,Greg Wilson,https://www.datacamp.com/courses/introduction-to-shell-for-data-science
+Unsupervised Learning in Python,Benjamin Wilson,https://www.datacamp.com/courses/unsupervised-learning-in-python
+Exploratory Data Analysis,Andrew Bray,https://www.datacamp.com/courses/exploratory-data-analysis
+Joining Data in R with dplyr,Garrett Grolemund,https://www.datacamp.com/courses/joining-data-in-r-with-dplyr
+Network Analysis in Python (Part 1),Eric Ma,https://www.datacamp.com/courses/network-analysis-in-python-part-1
+Natural Language Processing Fundamentals in Python,Katharine Jarmul,https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python
+Statistical Thinking in Python (Part 2),Justin Bois,https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
+Interactive Data Visualization with Bokeh,Bryan Van de Ven,https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
+Introduction to Time Series Analysis,David S. Matteson,https://www.datacamp.com/courses/introduction-to-time-series-analysis
+Working with the RStudio IDE (Part 1),Garrett Grolemund,https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1
+Data Visualization with ggplot2 (Part 2),Rick Scavetta,https://www.datacamp.com/courses/data-visualization-with-ggplot2-2
+Introduction to Machine Learning,Vincent Vankrunkelsven,https://www.datacamp.com/courses/introduction-to-machine-learning-with-r
+Machine Learning with the Experts: School Budgets,Peter Bull,https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets
+Manipulating Time Series Data in R with xts & zoo,Jeffrey Ryan,https://www.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo
+Building Chatbots in Python,Alan Nichol,https://www.datacamp.com/courses/building-chatbots-in-python
+Unsupervised Learning in R,Hank Roark,https://www.datacamp.com/courses/unsupervised-learning-in-r
+Exploratory Data Analysis in R: Case Study,David Robinson,https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study
+Building Web Applications in R with Shiny,Mine Cetinkaya-Rundel,https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny
+Introduction to PySpark,Nick Solomon,https://www.datacamp.com/courses/introduction-to-pyspark
+Multiple and Logistic Regression,Ben Baumer,https://www.datacamp.com/courses/multiple-and-logistic-regression
+Intro to Financial Concepts using Python,Dakota Wixom,https://www.datacamp.com/courses/intro-to-financial-concepts-using-python
+Forecasting Using R,Rob J. Hyndman,https://www.datacamp.com/courses/forecasting-using-r
+"Data Analysis in R, the data.table Way",Matt Dowle,https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial
+Foundations of Inference,Jo Hardin,https://www.datacamp.com/courses/foundations-of-inference
+Text Mining: Bag of Words,Ted Kwartler,https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words
+Intermediate R for Finance,Lore Dirick,https://www.datacamp.com/courses/intermediate-r-for-finance
+Importing & Managing Financial Data in Python,Stefan Jansen,https://www.datacamp.com/courses/importing-managing-financial-data-in-python
+Network Analysis in R,James Curley,https://www.datacamp.com/courses/network-analysis-in-r
+ARIMA Modeling with R,David Stoffer,https://www.datacamp.com/courses/arima-modeling-with-r
+String Manipulation in R with stringr,Charlotte Wickham,https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr
+Data Visualization with ggplot2 (Part 3),Rick Scavetta,https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3
+Machine Learning with Tree-Based Models in R,Erin LeDell,https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-r
+Data Types for Data Science,Jason Myers,https://www.datacamp.com/courses/data-types-for-data-science
+Supervised Learning in R: Regression,Nina Zumel,https://www.datacamp.com/courses/supervised-learning-in-r-regression
+Credit Risk Modeling in R,Lore Dirick,https://www.datacamp.com/courses/introduction-to-credit-risk-modeling-in-r
+Extreme Gradient Boosting with XGBoost,Sergey Fogelson,https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost
+Writing Efficient R Code,Colin Gillespie,https://www.datacamp.com/courses/writing-efficient-r-code
+Introduction to Portfolio Analysis in R,Kris Boudt,https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-r
+Manipulating Time Series Data in Python,Stefan Jansen,https://www.datacamp.com/courses/manipulating-time-series-data-in-python
+Working with Geospatial Data in R,Charlotte Wickham,https://www.datacamp.com/courses/working-with-geospatial-data-in-r
+Foundations of Probability in R,David Robinson,https://www.datacamp.com/courses/foundations-of-probability-in-r
+Introduction to Spark in R using sparklyr,Richie Cotton,https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr
+Importing and Managing Financial Data in R,Joshua Ulrich,https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r
+Statistical Modeling in R (Part 1),Daniel Kaplan,https://www.datacamp.com/courses/statistical-modeling-in-r-part-1
+Inference for Linear Regression,Jo Hardin,https://www.datacamp.com/courses/inference-for-linear-regression
+Working with Web Data in R,Oliver Keyes,https://www.datacamp.com/courses/working-with-web-data-in-r
+Object-Oriented Programming in R: S3 and R6,Richie Cotton,https://www.datacamp.com/courses/object-oriented-programming-in-r-s3-and-r6
+Financial Trading in R,Ilya  Kipnis,https://www.datacamp.com/courses/financial-trading-in-r
+Spatial Analysis in R with sf and raster,Zev Ross,https://www.datacamp.com/courses/spatial-analysis-in-r-with-sf-and-raster
+Sentiment Analysis in R: The Tidy Way,Julia Silge,https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way
+Working with the RStudio IDE (Part 2),Garrett Grolemund,https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-2
+Manipulating Time Series Data in R: Case Studies,Lore Dirick,https://www.datacamp.com/courses/manipulating-time-series-data-in-r-case-studies
+Visualizing Time Series Data in R,Arnaud Amsellem,https://www.datacamp.com/courses/visualizing-time-series-data-in-r
+Equity Valuation in R,Clifford Ang,https://www.datacamp.com/courses/equity-valuation-in-r
+Bond Valuation and Analysis in R,Clifford Ang,https://www.datacamp.com/courses/bond-valuation-and-analysis-in-r
+Communicating with Data in the Tidyverse,Timo Grossenbacher,https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse
+Intermediate Portfolio Analysis in R,Ross Bennett,https://www.datacamp.com/courses/intermediate-portfolio-analysis-in-r
+Working with Dates and Times in R,Charlotte Wickham,https://www.datacamp.com/courses/working-with-dates-and-times-in-r
+Case Studies in Statistical Thinking,Justin Bois,https://www.datacamp.com/courses/case-studies-in-statistical-thinking
+Quantitative Risk Management in R,Alexander J. McNeil,https://www.datacamp.com/courses/quantitative-risk-management-in-r
+Network Analysis in Python (Part 2),Eric Ma,https://www.datacamp.com/courses/network-analysis-in-python-part-2
+Spatial Statistics in R,Barry Rowlingson,https://www.datacamp.com/courses/spatial-statistics-in-r
+Sentiment Analysis in R,Ted Kwartler,https://www.datacamp.com/courses/sentiment-analysis-in-r
+Inference for Numerical Data,Mine Cetinkaya-Rundel,https://www.datacamp.com/courses/inference-for-numerical-data
+Data Visualization in R with ggvis,Garrett Grolemund,https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial
+Building Web Applications in R with Shiny: Case Studies,Dean Attali,https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny-case-studies
+Data Visualization in R with lattice,Deepayan Sarkar,https://www.datacamp.com/courses/data-visualization-in-r-with-lattice
+Statistical Modeling in R (Part 2),Daniel Kaplan,https://www.datacamp.com/courses/statistical-modeling-in-r-part-2
+Exploring Pitch Data with R,Brian M. Mills,https://www.datacamp.com/courses/exploring-pitch-data-with-r
+Parallel Computing with Dask,Dhavide Aruliah,https://www.datacamp.com/courses/parallel-computing-with-dask
